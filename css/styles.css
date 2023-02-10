@@ -467,12 +467,6 @@ footer {
 .project-image {
   float: left;
 }
-.project-image::after {
-  content: "";
-  display: none;
-  clear: both;
-}
-
 .project-info {
   position: absolute;
   top: 50%;
